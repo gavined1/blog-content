@@ -8,7 +8,7 @@ date: "Dec 1, 2025"
 readTime: "5"
 imageUrl: "[https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop](https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop)"
 featured: true
---------------
+---
 
 # Getting Started with Next.js 16
 
