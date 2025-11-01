@@ -6,7 +6,7 @@ category: "Technology"
 author: "Gavin"
 date: "Nov 1, 2025"
 readTime: "6"
-imageUrl: "image/Quantum Computer.jpg"
+imageUrl: "image/AI.jpg"
 featured: true
 ---
 
